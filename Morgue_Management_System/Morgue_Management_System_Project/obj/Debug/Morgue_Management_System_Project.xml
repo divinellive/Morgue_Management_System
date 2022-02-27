@@ -1,0 +1,231 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Morgue_Management_System_Project
+</name>
+</assembly>
+<members>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSet.Bills_TBDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSet.Chamber_TBDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSet.Login_1_TBDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSet.Miscellaneous_TBDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSet.Person_Deceased_TBDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSet.Staff_TBDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSet.Bills_TBRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSet.Chamber_TBRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSet.Login_1_TBRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSet.Miscellaneous_TBRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSet.Person_Deceased_TBRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSet.Staff_TBRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSet.Bills_TBRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSet.Chamber_TBRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSet.Login_1_TBRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSet.Miscellaneous_TBRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSet.Person_Deceased_TBRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSet.Staff_TBRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSetTableAdapters.Bills_TBTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSetTableAdapters.Chamber_TBTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSetTableAdapters.Login_1_TBTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSetTableAdapters.Miscellaneous_TBTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSetTableAdapters.Person_Deceased_TBTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSetTableAdapters.Staff_TBTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Morgue_Management_System_Project.MORGUE_DATABASEDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Morgue_Management_System_Project.MORGUE_DATABASEDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Morgue_Management_System_Project.MORGUE_DATABASEDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Morgue_Management_System_Project.MORGUE_DATABASEDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Morgue_Management_System_Project.MORGUE_DATABASEDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Morgue_Management_System_Project.MORGUE_DATABASEDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Morgue_Management_System_Project.MORGUE_DATABASEDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Morgue_Management_System_Project.MORGUE_DATABASEDataSetTableAdapters.TableAdapterManager.UpdateAll(Morgue_Management_System_Project.MORGUE_DATABASEDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.MORGUE_DATABASEDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Morgue_Management_System_Project.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Morgue_Management_System_Project.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Morgue_Management_System_Project.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Morgue_Management_System_Project.My.Resources.Resources.Abstaract_Wallpapers_008">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Morgue_Management_System_Project.My.Resources.Resources.abstract_1780158_960_720">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Morgue_Management_System_Project.My.Resources.Resources.ambulance_913013_960_720">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Morgue_Management_System_Project.My.Resources.Resources.canva_ambulance_car_transport_medical_emergency_icon_MADCXwFKwQM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Morgue_Management_System_Project.My.Resources.Resources.deceased_dead_demised_autopsy_corpse_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Morgue_Management_System_Project.My.Resources.Resources.polygon_2560x1440_4k_hd_wallpaper_orange_red_blue_background_pattern_225">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Morgue_Management_System_Project.My.Resources.Resources.very_basic_android_l_lollipop_by_ivan_boyko_6246">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Morgue_Management_System_Project.My.Resources.Resources.very_basic_android_l_lollipop_by_ivan_boyko_62461">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

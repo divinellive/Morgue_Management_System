@@ -1,0 +1,4 @@
+Provider=Microsoft.Jet.OLEDB.4.0;Data Source="C:\Users\EDEN\Documents\Visual Studio 2015\Projects\Morgue_Management_System_Project\DATABASE_FOLDER\MORGUE_DATABASE.mdb"
+
+
+"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\EDEN\Documents\Visual Studio 2015\Projects\Morgue_Management_System_Project\DATABASE_FOLDER\MORGUE_DATABASE.mdb"
